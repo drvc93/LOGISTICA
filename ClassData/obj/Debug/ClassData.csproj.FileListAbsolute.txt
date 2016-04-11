@@ -1,0 +1,35 @@
+D:\Aplicaciones\WSLogis\ClassData\obj\Debug\ClassData.pdb
+D:\SES\Aplicaciones\WSLogis\ClassData\bin\Debug\ClassData.dll
+D:\SES\Aplicaciones\WSLogis\ClassData\bin\Debug\ClassData.pdb
+D:\SES\Aplicaciones\WSLogis\ClassData\bin\Debug\AjaxControlToolkit.dll
+D:\SES\Aplicaciones\WSLogis\ClassData\obj\Debug\ClassData.dll
+D:\SES\Aplicaciones\WSLogis\ClassData\obj\Debug\ClassData.pdb
+D:\Aplicaciones\WSLogis\ClassData\obj\Debug\ClassData.dll
+F:\WSLogis_15022016p\WSLogis\ClassData\bin\Debug\ClassData.dll
+F:\WSLogis_15022016p\WSLogis\ClassData\bin\Debug\ClassData.pdb
+F:\WSLogis_15022016p\WSLogis\ClassData\obj\Debug\ClassData.csprojResolveAssemblyReference.cache
+F:\WSLogis_15022016p\WSLogis\ClassData\obj\Debug\ClassData.dll
+F:\WSLogis_15022016p\WSLogis\ClassData\obj\Debug\ClassData.pdb
+C:\LOGISTICA\WSLogis--\ClassData\obj\Debug\ClassData.pdb
+C:\LOGISTICA\WSLogis--\ClassData\bin\Debug\ClassData.dll
+C:\LOGISTICA\WSLogis--\ClassData\bin\Debug\ClassData.pdb
+C:\LOGISTICA\WSLogis--\ClassData\obj\Debug\ClassData.dll
+C:\Users\Daniel\Desktop\WSLOGIS 23-03-2014\WSLogis--\ClassData\bin\Debug\ClassData.dll
+C:\Users\Daniel\Desktop\WSLOGIS 23-03-2014\WSLogis--\ClassData\bin\Debug\ClassData.pdb
+C:\Users\Daniel\Desktop\WSLOGIS 23-03-2014\WSLogis--\ClassData\obj\Debug\ClassData.dll
+C:\Users\Daniel\Desktop\WSLOGIS 23-03-2014\WSLogis--\ClassData\obj\Debug\ClassData.pdb
+C:\LOGISTICA\WSLogis\WSLogis--\ClassData\bin\Debug\ClassData.dll
+C:\LOGISTICA\WSLogis\WSLogis--\ClassData\bin\Debug\ClassData.pdb
+C:\LOGISTICA\WSLogis\WSLogis--\ClassData\obj\Debug\ClassData.csprojResolveAssemblyReference.cache
+C:\LOGISTICA\WSLogis\WSLogis--\ClassData\obj\Debug\ClassData.dll
+C:\LOGISTICA\WSLogis\WSLogis--\ClassData\obj\Debug\ClassData.pdb
+C:\Users\Daniel\Desktop\WSLOGIS 28-03\WSLogis--\ClassData\bin\Debug\ClassData.dll
+C:\Users\Daniel\Desktop\WSLOGIS 28-03\WSLogis--\ClassData\bin\Debug\ClassData.pdb
+C:\Users\Daniel\Desktop\WSLOGIS 28-03\WSLogis--\ClassData\obj\Debug\ClassData.dll
+C:\Users\Daniel\Desktop\WSLOGIS 28-03\WSLogis--\ClassData\obj\Debug\ClassData.pdb
+C:\LOGISTICA\WSLogis--\ClassData\obj\Debug\ClassData.csprojResolveAssemblyReference.cache
+C:\LOGISTICA\WSLogis\ClassData\bin\Debug\ClassData.dll
+C:\LOGISTICA\WSLogis\ClassData\bin\Debug\ClassData.pdb
+C:\LOGISTICA\WSLogis\ClassData\obj\Debug\ClassData.dll
+C:\LOGISTICA\WSLogis\ClassData\obj\Debug\ClassData.pdb
+C:\LOGISTICA\WSLogis\ClassData\obj\Debug\ClassData.csprojResolveAssemblyReference.cache

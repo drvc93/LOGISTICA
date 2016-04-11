@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WSLogis", "WSLogis\WSLogis.csproj", "{8693AED0-9795-4FB4-9923-3DB95AF1C9A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassBusiness", "ClassBusiness\ClassBusiness.csproj", "{23AE360B-5B5D-4E75-BC69-88F92BEE78CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassData", "ClassData\ClassData.csproj", "{5BB19A22-E3D7-4318-A327-A730CC22E43A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8693AED0-9795-4FB4-9923-3DB95AF1C9A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8693AED0-9795-4FB4-9923-3DB95AF1C9A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8693AED0-9795-4FB4-9923-3DB95AF1C9A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8693AED0-9795-4FB4-9923-3DB95AF1C9A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23AE360B-5B5D-4E75-BC69-88F92BEE78CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23AE360B-5B5D-4E75-BC69-88F92BEE78CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23AE360B-5B5D-4E75-BC69-88F92BEE78CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23AE360B-5B5D-4E75-BC69-88F92BEE78CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BB19A22-E3D7-4318-A327-A730CC22E43A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BB19A22-E3D7-4318-A327-A730CC22E43A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BB19A22-E3D7-4318-A327-A730CC22E43A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BB19A22-E3D7-4318-A327-A730CC22E43A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

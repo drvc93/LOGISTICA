@@ -1,0 +1,10 @@
+C:\LOGISTICA\WSLogis\ClassData\bin\Release\ClassData.dll
+C:\LOGISTICA\WSLogis\ClassData\bin\Release\ClassData.pdb
+C:\LOGISTICA\WSLogis\ClassData\obj\Release\ClassData.csprojResolveAssemblyReference.cache
+C:\LOGISTICA\WSLogis\ClassData\obj\Release\ClassData.dll
+C:\LOGISTICA\WSLogis\ClassData\obj\Release\ClassData.pdb
+C:\LOGISTICA\WSLogis--\ClassData\bin\Release\ClassData.dll
+C:\LOGISTICA\WSLogis--\ClassData\bin\Release\ClassData.pdb
+C:\LOGISTICA\WSLogis--\ClassData\obj\Release\ClassData.csprojResolveAssemblyReference.cache
+C:\LOGISTICA\WSLogis--\ClassData\obj\Release\ClassData.dll
+C:\LOGISTICA\WSLogis--\ClassData\obj\Release\ClassData.pdb

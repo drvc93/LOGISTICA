@@ -1,0 +1,14 @@
+C:\LOGISTICA\WSLogis\ClassBusiness\bin\Release\ClassBusiness.dll
+C:\LOGISTICA\WSLogis\ClassBusiness\bin\Release\ClassBusiness.pdb
+C:\LOGISTICA\WSLogis\ClassBusiness\bin\Release\ClassData.dll
+C:\LOGISTICA\WSLogis\ClassBusiness\bin\Release\ClassData.pdb
+C:\LOGISTICA\WSLogis\ClassBusiness\obj\Release\ClassBusiness.csprojResolveAssemblyReference.cache
+C:\LOGISTICA\WSLogis\ClassBusiness\obj\Release\ClassBusiness.dll
+C:\LOGISTICA\WSLogis\ClassBusiness\obj\Release\ClassBusiness.pdb
+C:\LOGISTICA\WSLogis--\ClassBusiness\bin\Release\ClassBusiness.dll
+C:\LOGISTICA\WSLogis--\ClassBusiness\bin\Release\ClassBusiness.pdb
+C:\LOGISTICA\WSLogis--\ClassBusiness\bin\Release\ClassData.dll
+C:\LOGISTICA\WSLogis--\ClassBusiness\bin\Release\ClassData.pdb
+C:\LOGISTICA\WSLogis--\ClassBusiness\obj\Release\ClassBusiness.csprojResolveAssemblyReference.cache
+C:\LOGISTICA\WSLogis--\ClassBusiness\obj\Release\ClassBusiness.dll
+C:\LOGISTICA\WSLogis--\ClassBusiness\obj\Release\ClassBusiness.pdb

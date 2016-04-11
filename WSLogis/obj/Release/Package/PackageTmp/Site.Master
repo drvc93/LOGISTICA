@@ -1,0 +1,64 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="WSLogis.SiteMaster" %>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1" runat="server">
+    <title></title>
+    <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+  
+
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    <link href="../Styles/jquery.jnotify.css" rel="stylesheet" type="text/css" />
+    <script src="../Scripts/jquery-1.4.2.min.js" type="text/javascript"></script>
+    <script src="../Scripts/jquery.jnotify.js" type="text/javascript"></script>
+    </asp:ContentPlaceHolder>
+   
+   <meta http-equiv="Page-Enter" content="blendTrans(Duration=0.0)" />
+    <meta http-equiv="Page-Exit" content="blendTrans(Duration=0.0)" />
+     
+  
+
+</head>
+<body>
+    <form id="Form1" runat="server">
+        <div class="page">
+            <div class="header">
+                <div class="title">
+                    <table>
+                        <tr>
+                            <td style="background-image: url(http://i.imgur.com/UtdzMl5.png); background-repeat: no-repeat; background-size: contain; width: 161px; height: 45px;"></td>
+                            <td>
+                                <h1>Sistema Logistico</h1>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+                <div class="loginDisplay">
+                    <asp:Label ID="Label4" runat="server" Text="Hola: " Font-Bold="True" ForeColor="White"></asp:Label>
+                    <asp:Label ID="lblUser" runat="server" ForeColor="White"></asp:Label>
+                    &nbsp; &nbsp;<asp:LinkButton
+                        ID="lkSalir" runat="server" Font-Bold="True" ForeColor="White"
+                        ToolTip="Salir del sistema"
+                        OnClick="lkSalir_Click">Salir</asp:LinkButton>
+                </div>
+                <div class="clear hideSkiplink">
+                   
+                    <asp:Menu ID="menuBar" runat="server" CssClass="menu" EnableViewState="true" IncludeStyleBlock="false" Orientation="Horizontal"  OnMenuItemClick="menuBar_MenuItemClick">
+                    </asp:Menu>
+                    
+                </div>
+            </div>
+            <div class="main">
+                <asp:ContentPlaceHolder ID="MainContent" runat="server">
+                    <asp:ScriptManager ID="ScriptManager1" runat="server">
+                    </asp:ScriptManager>
+                </asp:ContentPlaceHolder>
+            </div>
+
+            <div class="clear">
+            </div>
+        </div>
+        <div class="footer">
+        </div>
+    </form>
+</body>
+</html>
